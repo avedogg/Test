@@ -72,6 +72,7 @@ def printinfo(EmDetailList):
          
         # the following NEW line of code assigns TotEmployees totals to dictionary
         # we must also write code to assign TotHours, TotGrossPay, TotTax, & TotNetPay to corresponding dictionary items
+        #
 
         EmpTotals["TotEmp"] = TotEmployees
         HoursTotals["TotHours"] = TotHours
